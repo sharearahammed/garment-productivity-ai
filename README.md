@@ -65,7 +65,6 @@ garment-productivity-ai/
 │   ├── workforce_analysis.png
 │   └── prediction_dashboard.png
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
@@ -162,9 +161,11 @@ The dashboard file in the `powerbi/` folder is used to present operational insig
 
 The project includes visual outputs for key dashboard and analytics views.
 
-- Executive Productivity Overview: `screenshots/Executive Productivity Overview.png`
-- Manufacturing Operations: `screenshots/Manufacturing Operations.png`
-- Workforce Analysis: `screenshots/Workforce Analysis.png`
+![Executive Productivity Overview](screenshots/Executive%20Productivity%20Overview.png)
+
+![Manufacturing Operations](screenshots/Manufacturing%20Operations.png)
+
+![Workforce Analysis](screenshots/Workforce%20Analysis.png)
 
 ## Contact
 
