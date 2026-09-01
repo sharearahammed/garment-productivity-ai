@@ -1,0 +1,13 @@
+Feature,Importance
+num__smv,0.18716949422233178
+num__over_time,0.15128815834829823
+num__incentive,0.13594163375765067
+num__no_of_workers,0.1335375368450551
+num__team_no,0.13300528804493802
+num__targeted_productivity,0.12310382300036518
+num__wip,0.07954147155038079
+cat__department_Finishing,0.015111315958984196
+cat__department_Sewing,0.01339075356191158
+num__no_of_style_change,0.010352459054758805
+num__idle_men,0.010042361418752688
+num__idle_time,0.007515704236572983
